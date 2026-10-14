@@ -6,6 +6,11 @@ Conservation Area plus Bwindi Impenetrable National Park. The workflow uses
 multi-temporal **Landsat 8** surface-reflectance imagery (path/row 173/061, 2014–2015)
 and field vegetation plots.
 
+![Vegetation classes of the Virunga massif](images/virunga_map.png)
+
+*Vegetation classes of the Virunga massif (DRC, Rwanda, Uganda). The inset shows
+where the massif sits among the national parks of the region.*
+
 The workflow covers:
 
 - **Cloud masking and stacking.** Every band is masked with Fmask and stacked into a time series with [`bfastSpatial`](https://github.com/loicdtx/bfastSpatial).
