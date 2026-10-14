@@ -83,3 +83,7 @@ These scripts were written in 2016 with R 3.x and use the `raster`/`sp` stack:
 ## Author
 
 Felipe Coelho Costa — WWF remote-sensing work on the Greater Virunga Landscape.
+
+## License
+
+Code released under the [MIT License](LICENSE). The license covers the scripts only, not the imagery or field data.
